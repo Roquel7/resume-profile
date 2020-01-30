@@ -20,13 +20,13 @@ body {
 .header .intro {
   position: relative;
   color: white;
-  margin: 100px 800px 0px 0px;
+  margin: 100px 700px 0px 0px;
   font-size: 30px;
 }
 
 .profile-picture {
   display: flex;
-  flex-grow: 1;
+  flex-grow: 2;
   padding: 50px 30px;
   width: 10%;
   height: 50px;
